@@ -1,0 +1,86 @@
+.toaster {
+    color: #f6f6f6;
+    font-size: 14px;
+    font-family: "Roboto-Regular", Helvetica, sans-serif;
+    top: 144px;
+    min-height: 54px;
+    width: 443px;
+    position: fixed;
+    right: 40px;
+    z-index: 3;
+    .toast-wrap {
+        margin-bottom: 8px;
+    }
+    .toast-icon {
+        width: 24px;
+        height: 24px;
+        padding: 0 9px 0 0;
+        display: inline-block;
+        vertical-align: top;
+    }
+    .toast-description {
+        display: inline-block;
+        width: 289px;
+        vertical-align: top;
+        padding: 2px 0 10px 5px;
+        p {
+            padding: 0;
+            margin: 0;
+        }
+    }
+    .toast-action {
+        display: inline-block;
+        min-width: 105px;
+        vertical-align: bottom;
+
+        p {
+            padding: 0;
+            margin: 0;
+            float: right;
+            padding: 0 9px;
+            line-height: 29px;
+            border-radius: 4px;
+            &:hover {
+                background: rgba(#fff, 0.1);
+                cursor: pointer;
+            }
+        }
+    }
+
+    .toast-info {
+        padding: 15px 0 8px 17px;
+        background-color: #434549;
+        border-radius: 6px;
+        & span.icon-icn-info-circle-solid {
+            color: #f6f6f6;
+            font-size: 20px;
+        }
+    }
+    .toast-success {
+        padding: 15px 0 8px 17px;
+        background-color: #0e8a00;
+        border-radius: 6px;
+        & span.icon-icn-check-circle-solid {
+            color: #f6f6f6;
+            font-size: 20px;
+        }
+    }
+    .toast-error {
+        padding: 15px 0 8px 17px;
+        background-color: #e70011;
+        border-radius: 6px;
+        & span.icon-icn-info-circle-solid {
+            color: #f6f6f6;
+            font-size: 20px;
+        }
+    }
+    .toast-transaction {
+        padding: 15px 0 8px 17px;
+        background-color: #434549;
+        border-radius: 6px;
+        & span.icon-icn-info-circle-solid {
+            color: #f6f6f6;
+            font-size: 20px;
+        }
+    }
+}

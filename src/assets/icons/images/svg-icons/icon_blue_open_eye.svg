@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>DFD6FC33-0600-4D24-ABE1-CB4F40E228AF</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M12.8564,5.1309 C12.9414,5.4069 13.0004,5.6949 13.0004,5.9999 C13.0004,7.6569 11.6574,8.9999 10.0004,8.9999 C8.3424,8.9999 7.0004,7.6569 7.0004,5.9999 C7.0004,4.3429 8.3424,2.9999 10.0004,2.9999 C10.3044,2.9999 10.5924,3.0589 10.8694,3.1439 C10.3574,3.3819 10.0004,3.8979 10.0004,4.4999 C10.0004,5.3279 10.6714,5.9999 11.5004,5.9999 C12.1024,5.9999 12.6184,5.6429 12.8564,5.1309 M10.0004,10.9999 C7.2384,10.9999 5.0004,8.7619 5.0004,5.9999 C5.0004,3.2379 7.2384,0.9999 10.0004,0.9999 C12.7614,0.9999 15.0004,3.2379 15.0004,5.9999 C15.0004,8.7619 12.7614,10.9999 10.0004,10.9999 M10.0004,-0.0001 C5.0004,-0.0001 0.0004,2.9999 0.0004,5.9999 C0.0004,8.9999 5.0004,11.9999 10.0004,11.9999 C15.0004,11.9999 20.0004,8.9999 20.0004,5.9999 C20.0004,2.9999 15.0004,-0.0001 10.0004,-0.0001" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1920px-OTP-PW-Expired-New-PW-Error-Captured" transform="translate(-1586.000000, -497.000000)">
+            <g id="Group-5" transform="translate(1258.000000, 445.000000)">
+                <g id="Group-4" transform="translate(8.000000, 8.000000)">
+                    <g id="icn_eye/open" transform="translate(320.000000, 44.000000)">
+                        <rect id="bounding_box" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                        <g id="color" transform="translate(2.000000, 6.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#767676" xlink:href="#path-1"></use>
+                            <g id="color/tertiary-future" mask="url(#mask-2)" fill="#0089FF">
+                                <g transform="translate(-2.000000, -6.000000)" id="Rectangle">
+                                    <rect x="0" y="0" width="24" height="24"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

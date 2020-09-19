@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="19px" viewBox="0 0 18 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>avatar/flags/ZAR_South_African_rand</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="8.55" cy="8.55" r="8.55"></circle>
+        <circle id="path-3" cx="9" cy="9" r="9"></circle>
+    </defs>
+    <g id="Overview" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Payment-choice-1440" transform="translate(-11.000000, -10.000000)">
+            <g id="Group-6" transform="translate(6.000000, 6.000000)">
+                <g id="avatar/flags/ZAR_South_African_rand" transform="translate(5.000000, 4.500000)">
+                    <g>
+                        <g id="South-Africa-flag" transform="translate(0.450000, 0.450000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Oval-56"></g>
+                            <polygon id="Fill-8681" fill="#E23821" mask="url(#mask-2)" points="-0.868864865 17.4564166 16.5724241 17.4564166 16.5724241 -0.507422769 -0.868864865 -0.507422769"></polygon>
+                            <polygon id="Fill-8683" fill="#002395" mask="url(#mask-2)" points="3.07728898 17.4483138 20.518578 17.4483138 20.518578 8.47044554 3.07728898 8.47044554"></polygon>
+                            <polyline id="Fill-8684" fill="#000000" mask="url(#mask-2)" points="0.00355509356 17.4483138 0.00355509356 -0.507422769 9.99123493 8.47044554 0.00355509356 17.4483138"></polyline>
+                            <polyline id="Fill-8685" fill="#FFFFFF" mask="url(#mask-2)" points="26.0090644 5.44811262 13.8392682 5.44811262 5.25940541 -0.507422769 0.00355509356 -0.507422769 0.00355509356 1.65601662 9.89738046 8.47044554 0.00355509356 15.2767717 0.00355509356 17.4483138 5.21247817 17.4483138 13.8861954 11.4684702 26.0090644 11.4684702 26.0090644 5.44811262"></polyline>
+                            <polyline id="Fill-8686" fill="#FFB612" mask="url(#mask-2)" points="26.0090644 6.63111692 13.565526 6.63111692 3.09293139 -0.507422769 0.00355509356 -0.507422769 0.00355509356 3.09830954 7.8012973 8.47044554 0.00355509356 13.8506843 0.00355509356 17.4483138 3.09293139 17.4483138 13.52642 10.2611575 26.0090644 10.2611575 26.0090644 6.63111692"></polyline>
+                            <polyline id="Fill-8687" fill="#007A4D" mask="url(#mask-2)" points="26.0090644 6.63111692 13.565526 6.63111692 3.09293139 -0.507422769 0.00355509356 -0.507422769 0.00355509356 1.65601662 9.89738046 8.47044554 0.00355509356 15.2767717 0.00355509356 17.4483138 3.09293139 17.4483138 13.52642 10.2611575 26.0090644 10.2611575 26.0090644 6.63111692"></polyline>
+                        </g>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <circle stroke="#F6F6F6" cx="9" cy="9" r="8.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

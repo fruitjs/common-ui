@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>7F809640-69B8-4BBD-AC11-748E73974F2B</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M16.8799,8.8252 L10.8799,15.8252 C10.7889,15.9302 10.6579,15.9942 10.5199,16.0002 L10.4999,16.0002 C10.3669,16.0002 10.2399,15.9472 10.1469,15.8532 L7.1469,12.8532 C6.9509,12.6582 6.9509,12.3422 7.1469,12.1462 C7.3419,11.9512 7.6579,11.9512 7.8539,12.1462 L10.4719,14.7642 L16.1199,8.1752 C16.3019,7.9662 16.6169,7.9402 16.8249,8.1202 C17.0349,8.3002 17.0599,8.6162 16.8799,8.8252 M11.9999,2.0002 C6.4859,2.0002 1.9999,6.4862 1.9999,12.0002 C1.9999,17.5132 6.4859,22.0002 11.9999,22.0002 C17.5139,22.0002 21.9999,17.5132 21.9999,12.0002 C21.9999,6.4862 17.5139,2.0002 11.9999,2.0002" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1920px-NO-OTP-Forgot-PW-Reset-Success" transform="translate(-1274.000000, -340.000000)">
+            <g id="Group-5" transform="translate(1274.000000, 340.000000)">
+                <g id="icn_check/circle-solid">
+                    <rect id="bounding_box" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="icon" fill="#767676" xlink:href="#path-1"></use>
+                    <g id="color/positive" mask="url(#mask-2)" fill="#0E8A00">
+                        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
